@@ -1,9 +1,9 @@
 ## General info
 Simple C Compiler 
 
-Type: Course project
-Subject: Introduction to Compilation
-Institution: SCE - Shamoon College of Engineering
+* Type: Course project
+* Subject: Introduction to Compilation
+* Institution: SCE - Shamoon College of Engineering
 	
 ## Technologies
 Project is created with:
