@@ -1,0 +1,12 @@
+int b = 2147483647;
+float r = 1.89;
+long double n = r*123;
+unsigned a = 4294967;
+char g = 'Q', k = 'm';
+const long int k = 25;
+const double A=2.128E-2;
+int a[2][3];
+float arr[100];
+char ch[3] = {'d', 'e', '9'};
+struct { double x,y; } s1, s2, sm[9];
+st1.name="Bibi";
